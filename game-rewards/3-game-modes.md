@@ -1,5 +1,8 @@
-# 3-Mode
+# 3 Game Modes
 
-Players will receive an amount of experience and gems after playing a game. The amount of gems the player earns will be based on how long the player plays and the stats of the hero the player uses. Players can earn more if they are currently owning or renting a Land. Players will not receive any lands if they are being AFK.
+Players will earn experience points (EXP), gems, and ranking points depending on the game mode.
+
+* In **PvE** and **Treasury Hunt**, players can earn gems if they have an equipped Hourglass.
+* In **PvP**, players earn ranking points.
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>

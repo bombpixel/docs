@@ -11,6 +11,8 @@
 Sand + Exhausted Hourglass + Rare Workshop = Full Rare/Common/Uncommon Hourglass
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/Sand_+_Exhausted_Hourglass_+_Rare_Workshop_=_Full_Rare_or_Common.png" alt=""><figcaption></figcaption></figure>
+
 #### **Sand Cost for Recharging**
 
 | Rarity    | Sand Required |
