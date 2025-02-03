@@ -1,16 +1,11 @@
----
-hidden: true
----
-
 # Portal
 
 #### **What is a Portal?**
 
-A **Portal** is an NFT that **grants access to the Treasury Hunt mode** when it is not active.
+A **Portal** is a ticket that **grants access to the Treasury Hunt mode** when it is not active.
 
 #### **How to Obtain a Portal?**
 
-* Purchase from the **marketplace**.
 * Purchase from **inventory store**.
 * **Boss Chest rewards**.
 
