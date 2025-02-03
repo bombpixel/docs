@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Land
 
 Land ownership unlocks advanced features and resource generation:

@@ -1,6 +1,6 @@
 # Ownership
 
-Heroes in Bomb Pixel are NFTs that are owned by players. Players can buy heroes from the marketplace or from hero packs. Buying heroes from the pack can provide the player a hero of their choice with randomized rarity.&#x20;
+Heroes in Bomb Pixel are NFTs owned by players. Players can obtain heroes from the marketplace, hero packs, special events, or early access. Buying heroes from packs provides a randomly generated hero with varying rarity.
 
 They can buy these packs using $SEI. Owned heroes can be sold on the marketplace and will be disabled, while the rest can be used by the player.
 
