@@ -32,12 +32,12 @@
 * [Vote](game-features/vote.md)
 * [Land](game-features/land.md)
 * [Bomb](game-features/bomb.md)
+* [Leaderboard](game-features/leaderboard.md)
 * [Rewards](game-features/rewards.md)
 * [Daily Check-in](game-features/daily-check-in.md)
 * [Currency](game-features/currency.md)
 * [Items](game-features/items.md)
 * [Quests](game-features/quests.md)
-* [Leaderboard](game-features/leaderboard.md)
 
 ## Policies
 
