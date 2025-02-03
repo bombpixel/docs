@@ -19,4 +19,3 @@ A **Portal** is a ticket that **grants access to the Treasury Hunt mode** when i
 * **Works similarly to Boss Challenge matchmaking.**
 * **Max 4 players per map.**
 * Maps are **randomly assigned**.
-* If no players join, the match is canceled.
