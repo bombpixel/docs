@@ -9,7 +9,7 @@ A **Workshop can only craft Hourglasses of equal or lower rarity**.
 2. **Two Crafting Methods**
 
 * **Upgrade by Combining 3 Hourglasses**
-  * To craft an **Hourglass of higher rarity**, players need **three Hourglasses of the next lower rarity**.
+  * To craft an **Hourglass of higher rarity**, players need **three Hourglasses of the same lower rarity**.
   * Additionally, they must own a **Workshop with a rarity equal to the target Hourglass**.
   * Hourglasses must be **fully charged** and **not currently equipped**.
   * **On-chain transaction required** to complete the crafting process.

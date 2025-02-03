@@ -3,7 +3,11 @@
 * Type: Resource Gathering
 * Requirements: Players can play during earn time and during mode unlock time.
 
-
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 * Gameplay:
   * Destroy blocks to uncover Gems.
