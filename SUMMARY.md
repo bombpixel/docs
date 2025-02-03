@@ -43,7 +43,7 @@
 
 ## Game Rewards
 
-* [3-Mode](game-rewards/3-mode.md)
+* [3 Game Modes](game-rewards/3-game-modes.md)
 * [Daily Check-in](game-rewards/daily-check-in.md)
 * [Weekly Challenges](game-rewards/weekly-challenges.md)
 * [Jackpot](game-rewards/jackpot.md)

@@ -14,7 +14,7 @@ The core gameplay consists of mechanics of classic bomb games, such as the well-
 * Shield: Temporarily protects the player from bomb damage.
 * Reduced Detonation: Allows bombs to detonate faster.
 * Sensored Bomb: Allows players to place a bomb with a sensor
-* Purify: Automatically removes a stun for the player.
+* Cleanse: Automatically removes a stun for the player.
 * Bomb Gloves: Disable a planted bomb.
 
 6. Winning Condition: As a player, your aim is to be the last player standing, often by outsmarting others with bomb placement and strategic movement.

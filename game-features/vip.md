@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # VIP
 
 Bomb Pixel provides exclusive benefits to VIP owners. Owning VIP helps players to earn more in game and give them access to exclusive items.

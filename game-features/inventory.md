@@ -2,7 +2,7 @@
 
 Bomb Pixel's inventory is a system used to store and manage the items or resources players acquire during gameplay. It serves as a central hub where players can view, organize, equip, or use these items.
 
-There are 2 types of items&#x20;
+There are 2 types of items:
 
 * Items: Consumable equipments that players can carry into matches. These will not be lost if players don’t use them. Players can also buy these types of equipment here. These are not NFTs.
 * Crafting items: Items that can upgrade heroes permanently and chests. These chests contain NFT upgrade items that can be sold on marketplaces.
