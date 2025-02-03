@@ -4,11 +4,11 @@
 
 * **Only exhausted Hourglasses can be recharged.**
 * Players use **Sand** to recharge an Hourglass.
-* Workshop rarity determines the Hourglass rarity it can recharge.
+* Workshop rarity can fully recharge Hourglasses of equal or lower rarity.
 * Players need to sign an **on-chain transaction** for recharging.
 
 {% hint style="info" %}
-Sand + Exhausted Hourglass + Rare Workshop = Full Rare Hourglass
+Sand + Exhausted Hourglass + Rare Workshop = Full Rare/Common/Uncommon Hourglass
 {% endhint %}
 
 #### **Sand Cost for Recharging**

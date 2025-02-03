@@ -3,11 +3,12 @@
 * Type: Resource Gathering
 * Requirements: Players can play during earn time and during mode unlock time.
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| **Time Open (UTC)** | **Notes**                 |
+| ------------------- | ------------------------- |
+| 07:00 - 08:00       | First session of the day  |
+| 19:00 - 20:00       | Second session of the day |
+
+This mode may open more frequently depending on game events and updates.
 
 * Gameplay:
   * Destroy blocks to uncover Gems.
