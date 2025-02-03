@@ -12,4 +12,4 @@
   * Large Land
 * Rewards: Renters and land-owners share Gem-based rewards.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

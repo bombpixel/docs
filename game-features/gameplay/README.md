@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Gameplay
 
 <figure><img src="../../.gitbook/assets/opera_GxxdCJ7RfX.png" alt=""><figcaption></figcaption></figure>

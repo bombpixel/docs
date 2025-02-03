@@ -20,20 +20,24 @@
   * [Ownership](game-overview/heroes/ownership.md)
   * [Usage](game-overview/heroes/usage.md)
 
-## Game Overview
+## Game FEATURES
 
-* [Controls](game-overview-1/controls.md)
-* [Gameplay](game-overview-1/gameplay/README.md)
-  * [Normal Game](game-overview-1/gameplay/normal-game.md)
-  * [Boss Challenge](game-overview-1/gameplay/boss-challenge.md)
-  * [Treasury Hunt](game-overview-1/gameplay/treasury-hunt.md)
-* [Characters](game-overview-1/characters.md)
-* [Rewards](game-overview-1/rewards.md)
-* [Daily Check-in](game-overview-1/daily-check-in.md)
-* [Currency](game-overview-1/currency.md)
-* [Items](game-overview-1/items.md)
-* [Quests](game-overview-1/quests.md)
-* [Leaderboard](game-overview-1/leaderboard.md)
+* [Controls](game-features/controls.md)
+* [Gameplay](game-features/gameplay/README.md)
+  * [Normal Game](game-features/gameplay/normal-game.md)
+  * [Boss Challenge](game-features/gameplay/boss-challenge.md)
+  * [Treasury Hunt](game-features/gameplay/treasury-hunt.md)
+* [Inventory](game-features/inventory.md)
+* [Custom Map](game-features/custom-map.md)
+* [Vote](game-features/vote.md)
+* [Land](game-features/land.md)
+* [Bomb](game-features/bomb.md)
+* [Rewards](game-features/rewards.md)
+* [Daily Check-in](game-features/daily-check-in.md)
+* [Currency](game-features/currency.md)
+* [Items](game-features/items.md)
+* [Quests](game-features/quests.md)
+* [Leaderboard](game-features/leaderboard.md)
 
 ## Policies
 
