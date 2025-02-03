@@ -1,0 +1,48 @@
+# How to craft Hourglass?
+
+1. **Workshop Rarity Restriction**
+
+A **Workshop can only craft Hourglasses of equal or lower rarity**.
+
+> A **Rare Workshop** can craft **Common, Uncommon, and Rare Hourglasses** but **not Epic or higher**.
+
+2. **Two Crafting Methods**
+
+* **Upgrade by Combining 3 Hourglasses**
+  * To craft an **Hourglass of higher rarity**, players need **three Hourglasses of the next lower rarity**.
+  * Additionally, they must own a **Workshop with a rarity equal to the target Hourglass**.
+  * Hourglasses must be **fully charged** and **not currently equipped**.
+  * **On-chain transaction required** to complete the crafting process.
+
+{% hint style="info" %}
+3 Rare Hourglasses + 1 Epic Workshop = 1 Epic Hourglass
+{% endhint %}
+
+* **Craft from Materials**
+  * Requires **1 Empty Hourglass + Sand + Workshop**.
+  * The resulting Hourglass rarity is random but will be **equal to or lower than the Workshop rarity**.
+
+{% hint style="info" %}
+Using **1 Empty Hourglass + 1 Sand + Rare Workshop**, players can obtain a **Common, Uncommon, or Rare Hourglass randomly.**
+{% endhint %}
+
+* **Empty Hourglass** is obtained from:
+  * **Final boss chest rewards (Boss Challenge Mode)**
+  * **Bomb Pass rewards**
+* **Sand** is obtained from:
+  * **Bomb Pass rewards**
+  * **Purchasable Sand packs in-game**
+
+#### **Sand Cost for Crafting Hourglasses**
+
+| Rarity    | Sand Required |
+| --------- | ------------- |
+| Common    | 300           |
+| Uncommon  | 600           |
+| Rare      | 900           |
+| Epic      | 1500          |
+| Legendary | 3000          |
+| Mythic    | 6000          |
+| Unique    | 15000         |
+
+Players must **sign an on-chain transaction** to complete crafting.

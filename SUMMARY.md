@@ -51,8 +51,12 @@
 ## Game Economy
 
 * [Workshops](game-economy/workshops.md)
-* [Privacy Policies](game-economy/privacy-policies.md)
-* [How to control?](game-economy/how-to-control.md)
+* [Hourglass](game-economy/hourglass/README.md)
+  * [How to own Hourglass?](game-economy/hourglass/how-to-own-hourglass.md)
+  * [How to craft Hourglass?](game-economy/hourglass/how-to-craft-hourglass.md)
+  * [How to recharge Hourglass?](game-economy/hourglass/how-to-recharge-hourglass.md)
+  * [How to equip & unequip Hourglass into Account?](game-economy/hourglass/how-to-equip-and-unequip-hourglass-into-account.md)
+* [Portal](game-economy/portal.md)
 
 ## Policies
 
