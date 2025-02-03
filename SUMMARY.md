@@ -59,6 +59,10 @@
   * [How to equip & unequip Hourglass into Account?](game-economy/hourglass/how-to-equip-and-unequip-hourglass-into-account.md)
 * [Portal](game-economy/portal.md)
 
+***
+
+* [IMPORTANT LINKS](important-links.md)
+
 ## Policies
 
 * [Terms of Service](policies/terms-of-service.md)
