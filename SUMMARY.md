@@ -32,6 +32,7 @@
 * [Vote](game-features/vote.md)
 * [Land](game-features/land.md)
 * [Bomb](game-features/bomb.md)
+* [VIP](game-features/vip.md)
 * [Leaderboard](game-features/leaderboard.md)
 * [Rewards](game-features/rewards.md)
 * [Daily Check-in](game-features/daily-check-in.md)
@@ -39,8 +40,22 @@
 * [Items](game-features/items.md)
 * [Quests](game-features/quests.md)
 
+## Game Rewards
+
+* [3-Mode](game-rewards/3-mode.md)
+* [Daily Check-in](game-rewards/daily-check-in.md)
+* [Weekly Challenges](game-rewards/weekly-challenges.md)
+* [Jackpot](game-rewards/jackpot.md)
+* [Battle Pass](game-rewards/battle-pass.md)
+
+## Game Economy
+
+* [Workshops](game-economy/workshops.md)
+* [Privacy Policies](game-economy/privacy-policies.md)
+* [How to control?](game-economy/how-to-control.md)
+
 ## Policies
 
 * [Terms of Service](policies/terms-of-service.md)
 * [Privacy Policies](policies/privacy-policies.md)
-* [FAQ](policies/faq.md)
+* [How to control?](policies/how-to-control.md)

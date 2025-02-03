@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Rewards
 
 Players can obtain the following as rewards for good sports:

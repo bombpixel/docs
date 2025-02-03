@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Quests
 
 Quests are tasks players can complete to earn rewards.
