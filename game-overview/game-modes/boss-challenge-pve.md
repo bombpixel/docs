@@ -3,7 +3,7 @@
 * Type: PvE
 * Objective: Defeat waves of AI-controlled enemies and a final boss.
 * Gameplay:
-  * 3 Lives: Players begin with limited lives to complete all 20 challenge waves.
+  * 3 Lives: Players begin with limited lives to complete all 40 challenge waves.
   * Shop: Players can buy items in the shop between waves, each time the Shop appears, it will disappear after 20 seconds.
 * Rewards: Victory unlocks Item Upgrade Chests, additional Gems or Empty Hourglass.
 
