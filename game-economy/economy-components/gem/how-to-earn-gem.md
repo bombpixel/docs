@@ -32,3 +32,13 @@ In Jackpot, players spin 3 wheels consisting of symbols. If players land 2 ident
 Battle pass is a mechanic to reward players in a season. The more objective you finish in the battle pass, the better the reward you are going to get. There is a free battle pass and a premium battle pass for players to unlock using $SEI.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeQR6PNOUKPT79q57OKJr3yUZpnx4D6vABwPj2A6AZGrKVXKouMGwVvNbLkKW6BXTmZOj1dBaniXApLCPzLYpJ1AWTX0OhxizsblSX00TXtok9xxar5ptI6XTczKrVqFmgAEVXk?key=rX80Bxrq05xJeZ60gjPi91-Z" alt=""><figcaption></figcaption></figure>
+
+6. Earning GEM from Vote
+
+Everytime an event starts, players will receive a popup showing in game. Players will be able to enter events using gems and will receive a fascinating prize. In every game, the game will provide a question for the players to choose between the 2 answers, which answer got more votes will be the correct answer.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Players can choose how many gems they want to spend to play. If they choose wrong, they will lose all gems. If they win, they receive an amount of gems scaling with the gems they spent.
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

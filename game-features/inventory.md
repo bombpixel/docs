@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Inventory
 
 Bomb Pixel's inventory is a system used to store and manage the items or resources players acquire during gameplay. It serves as a central hub where players can view, organize, equip, or use these items.
