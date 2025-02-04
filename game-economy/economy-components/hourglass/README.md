@@ -4,7 +4,7 @@
 
 An **Hourglass** is an NFT **equipped to an account** to increase **earning time** in the game. Hourglasses have **limited earning time** and require recharging after depletion.
 
-<figure><img src="../../.gitbook/assets/frame rarity Hourglass (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/frame rarity Hourglass (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Hourglass Rarity and Supply**
 

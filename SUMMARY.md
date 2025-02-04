@@ -51,20 +51,21 @@
 
 ## Game Economy
 
-* [Workshops](game-economy/workshops.md)
-* [Hourglass](game-economy/hourglass/README.md)
-  * [How to own Hourglass?](game-economy/hourglass/how-to-own-hourglass.md)
-  * [How to craft Hourglass?](game-economy/hourglass/how-to-craft-hourglass.md)
-  * [How to recharge Hourglass?](game-economy/hourglass/how-to-recharge-hourglass.md)
-  * [How to equip & unequip Hourglass into Account?](game-economy/hourglass/how-to-equip-and-unequip-hourglass-into-account.md)
+* [Economy Overview](game-economy/economy-overview.md)
+* [Economy Components](game-economy/economy-components/README.md)
+  * [Workshops](game-economy/economy-components/workshops.md)
+  * [Hourglass](game-economy/economy-components/hourglass/README.md)
+    * [How to own Hourglass?](game-economy/economy-components/hourglass/how-to-own-hourglass.md)
+    * [How to craft Hourglass?](game-economy/economy-components/hourglass/how-to-craft-hourglass.md)
+    * [How to recharge Hourglass?](game-economy/economy-components/hourglass/how-to-recharge-hourglass.md)
+    * [How to equip & unequip Hourglass into Account?](game-economy/economy-components/hourglass/how-to-equip-and-unequip-hourglass-into-account.md)
+  * [GEM](game-economy/economy-components/gem/README.md)
+    * [How to earn GEM?](game-economy/economy-components/gem/how-to-earn-gem.md)
 * [Portal](game-economy/portal.md)
-
-***
-
-* [IMPORTANT LINKS](important-links.md)
 
 ## Policies
 
 * [Terms of Service](policies/terms-of-service.md)
 * [Privacy Policies](policies/privacy-policies.md)
 * [How to control?](policies/how-to-control.md)
+* [Important Links](policies/important-links.md)

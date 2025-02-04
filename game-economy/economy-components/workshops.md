@@ -4,7 +4,7 @@
 
 A **Workshop** is an NFT that serves as a **crafting station** for creating and recharging **Hourglass NFTs**. The **rarity** of a Workshop determines the **rarity** of Hourglass it can craft. Players can acquire a Workshop by purchasing it on the **marketplace**.
 
-<figure><img src="../.gitbook/assets/frame rarity workshop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frame rarity workshop.png" alt=""><figcaption></figcaption></figure>
 
 #### **Workshop Rarity and Supply**
 
