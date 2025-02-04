@@ -42,12 +42,12 @@ Using **1 Empty Hourglass + 1 Sand + Rare Workshop**, players can obtain a **Com
 
 | Rarity    | Sand Required |
 | --------- | ------------- |
-| Common    | 300           |
-| Uncommon  | 600           |
-| Rare      | 900           |
-| Epic      | 1500          |
-| Legendary | 3000          |
-| Mythic    | 6000          |
-| Unique    | 15000         |
+| Common    | 200           |
+| Uncommon  | 300           |
+| Rare      | 500           |
+| Epic      | 700           |
+| Legendary | 1200          |
+| Mythic    | 1700          |
+| Unique    | 2800          |
 
 Players must **sign an on-chain transaction** to complete crafting.
