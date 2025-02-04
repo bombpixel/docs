@@ -15,4 +15,4 @@ This mode may open more frequently depending on game events and updates.
   * Gems remain on the map for 5 seconds before disappearing.
 * Rewards: Renters and land-owners share Gem-based rewards.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
