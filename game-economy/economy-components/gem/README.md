@@ -4,6 +4,8 @@
 
 **GEM** is the primary in-game currency that players can earn through gameplay activities. It serves multiple functions within the BombPixel ecosystem, ensuring progression and value within the game economy.
 
+<figure><img src="../../../.gitbook/assets/Frame 427322070.png" alt=""><figcaption></figcaption></figure>
+
 #### **Key Uses of GEM:**
 
 * **Earnable through gameplay** – Players acquire GEM by participating in battles, completing missions, and achieving in-game milestones.

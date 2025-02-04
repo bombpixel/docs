@@ -67,5 +67,5 @@
 
 * [Terms of Service](policies/terms-of-service.md)
 * [Privacy Policies](policies/privacy-policies.md)
-* [How to control?](policies/how-to-control.md)
+* [FAQ](policies/faq.md)
 * [Important Links](policies/important-links.md)
