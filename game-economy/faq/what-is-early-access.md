@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What is Early Access?
 
 **Overview:** This is a feature for players who get early access to the project, allowing them to experience game features early and earn rewards early.
