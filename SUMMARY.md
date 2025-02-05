@@ -52,6 +52,9 @@
 ## Game Economy
 
 * [Economy Overview](game-economy/economy-overview.md)
+* [FAQ](game-economy/faq/README.md)
+  * [What is Early Access?](game-economy/faq/what-is-early-access.md)
+  * [How to join Early Access?](game-economy/faq/how-to-join-early-access.md)
 * [Economy Components](game-economy/economy-components/README.md)
   * [Workshops](game-economy/economy-components/workshops.md)
   * [Hourglass](game-economy/economy-components/hourglass/README.md)
