@@ -1,4 +1,8 @@
-# How to control?
+---
+hidden: true
+---
+
+# FAQ
 
 This is the control input for a character inside a match.
 

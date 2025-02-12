@@ -52,9 +52,6 @@
 ## Game Economy
 
 * [Economy Overview](game-economy/economy-overview.md)
-* [FAQ](game-economy/faq/README.md)
-  * [What is Early Access?](game-economy/faq/what-is-early-access.md)
-  * [How to join Early Access?](game-economy/faq/how-to-join-early-access.md)
 * [Economy Components](game-economy/economy-components/README.md)
   * [Workshops](game-economy/economy-components/workshops.md)
   * [Hourglass](game-economy/economy-components/hourglass/README.md)
@@ -65,6 +62,12 @@
   * [GEM](game-economy/economy-components/gem/README.md)
     * [How to earn GEM?](game-economy/economy-components/gem/how-to-earn-gem.md)
 * [Portal](game-economy/portal.md)
+
+***
+
+* [FAQ](faq/README.md)
+  * [What is Early Access?](faq/what-is-early-access.md)
+  * [How to join Early Access?](faq/how-to-join-early-access.md)
 
 ## Policies
 
