@@ -10,19 +10,19 @@ Unlike traditional free-to-play economies, where **game studios sell items direc
 
 The BombPixel economy is structured around key components:
 
-#### **1. Workshops & Crafting**
+#### **1.** [**Workshops & Crafting**](economy-components/workshops.md)
 
 * **Workshops** serve as the **core production hubs** where players can **craft valuable assets**.
 * Players **use resources like Sand and Empty Hourglasses** to craft **new Hourglasses**, which are essential for earning in-game.
 * Higher-level **Workshops** allow crafting of **higher-rarity Hourglasses**, increasing their earning potential.
 
-#### **2. Hourglasses: The Core Earning Mechanism**
+#### **2.** [**Hourglasses**](economy-components/hourglass/)**: The Core Earning Mechanism**
 
 * **Hourglasses** dictate the amount of **play-to-earn time** available to a player.
 * They can be **crafted, upgraded, and recharged** within the ecosystem.
 * Higher-rarity Hourglasses provide **longer earning durations**, making them more valuable in the marketplace.
 
-#### **3. Gameplay & GEM Rewards**
+#### **3.** [**Gameplay & GEM Rewards**](economy-components/gem/)
 
 * Players **engage in BombPixel’s gameplay**, utilizing their Hourglasses to **earn GEMs**.
 * GEMs serve as the **primary in-game currency**, used for **purchasing hero equipment** and other in-game upgrades.
