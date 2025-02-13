@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Core Pillars
 
 Bomb Pixel's ecosystem is structured around four key pillars that define its vision, ensure sustainability, and empower its player base:
