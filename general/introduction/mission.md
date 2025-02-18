@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Mission
 
 Bomb Pixel’s mission is to give players nostalgia by giving them a classic bomber game with the implementation of blockchain. The combination of player-driven mechanics, true asset ownership, and competitive gameplay ensures that BombPixel evolves with the players at its center.
