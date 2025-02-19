@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Heroes
 
 With 8 unique heroes and 4 rarity levels, each character in Bomb Pixel brings its own strengths and style to the battlefield. Discover your favorite and start your journey!

@@ -16,8 +16,8 @@
   * [Boss Challenge (PvE)](game-overview/game-modes/boss-challenge-pve.md)
   * [Treasury Hunt](game-overview/game-modes/treasury-hunt/README.md)
     * [Portal](game-overview/game-modes/treasury-hunt/portal.md)
+* [Heroes](game-overview/heroes/all-heroes.md)
 * [Heroes](game-overview/heroes/README.md)
-  * [All Heroes](game-overview/heroes/all-heroes.md)
   * [Ownership](game-overview/heroes/ownership.md)
   * [Usage](game-overview/heroes/usage.md)
 

@@ -1,22 +1,9 @@
 # Gameplay
 
-The core gameplay consists of mechanics of classic bomb games, such as the well-known Bomberman series, typically revolves around strategic placement of bombs to defeat enemies, destroy obstacles, and achieve specific objectives, enhanced with web3 features. Here's a breakdown of the core mechanics:
+At times, players must **navigate maze-like environments, uncover hidden power-ups, and outmaneuver opponents**. By **eliminating obstacles and gaining new abilities**, they sharpen their skills and refine their strategy, preparing for even greater challenges ahead.
 
-1. Player Movement: Players navigate a character through a maze-like environment. The movement is usually grid-based, and players can move up, down, left, or right.
-2. Bomb Placement: The primary mechanic involves placing bombs on the grid. Once placed, bombs explode after a short delay, affecting the surrounding area. The explosion typically has a blast radius that can destroy walls, enemies, and power-ups within a certain range.
-3. Destruction of Obstacles: Bomb pixel features destructible obstacles such as walls or blocks. These obstacles can either hinder the player's progress or hide items like power-ups or keys. Players need to destroy these obstacles to uncover new paths or gain advantages.
-4. Defeating Enemies: In some game modes, the objective is to defeat AI-controlled enemies or rival players. The bombs can be used strategically to eliminate enemies, either by direct explosion or by trapping them.
-5. Power-ups and Items: Bomb games often feature power-ups that enhance the player's abilities. Common examples include:
+The first core value of **Bomb Pixel** is **true ownership of in-game achievements**. Through skill, competition, and collaboration, players will forge their legacy. Every victory, power-up, and strategic triumph is **recorded on-chain**, ensuring that assets earned are not just rewards but **real, tradable resources** within the player-driven economy.
 
-* Bomb Range Increase: Increases the radius of explosions.
-* Speed Boost: Increases the player's movement speed.
-* Bomb Count Increase: Allows players to place more bombs at once.
-* Shield: Temporarily protects the player from bomb damage.
-* Reduced Detonation: Allows bombs to detonate faster.
-* Sensored Bomb: Allows players to place a bomb with a sensor
-* Cleanse: Automatically removes a stun for the player.
-* Bomb Gloves: Disable a planted bomb.
+The second core value is **empowering players to take part in shaping the game itself**. Through consistent engagement and contribution, players can attain special statuses, granting them **the ability to influence key game mechanics, events, and policies**. This extends beyond mere feedback—players will have the opportunity to directly propose, plan, and shape the **evolution of Bomb Pixel’s ecosystem**.
 
-6. Winning Condition: As a player, your aim is to be the last player standing, often by outsmarting others with bomb placement and strategic movement.
-
-Overall, the combination of quick reflexes, strategic thinking, and tactical use of bombs makes Bomb Pixel engaging and fun.
+In **Bomb Pixel**, every explosion, every strategy, and every decision **leaves a mark -** a world where **players don’t just play, they build, compete, and own their place in the battlefield**.

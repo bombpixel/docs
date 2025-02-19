@@ -1,6 +1,8 @@
-# All Heroes
+# Heroes
 
 In Bomb Pixel, characters used for placing bombs are represented as NFTs (Non-Fungible Tokens). These characters not only play a crucial role in the gameplay but also offer unique abilities and traits, making each one valuable and distinct. Each hero can be upgraded over time.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 1. **Hero Attributes**
 
@@ -42,4 +44,10 @@ There are 4 rarities a hero can have: Common, Rare, Epic, and Legendary heroes, 
 
 </details>
 
-<table><thead><tr><th width="331">Shiba</th><th>Doge</th></tr></thead><tbody><tr><td><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXckTsA4J_6Bp4RrIBJhmKmhtjL00Hu1nq8eRCFIj10fj5dV7jPNrUwuAbyBCywkEskBIWdv5i4yLwiGupPoWgS4L2dPWyS9cFIhg6yxIwvPRhUCWS9WSFD94286o1PSiXOI04qn?key=rX80Bxrq05xJeZ60gjPi91-Z" alt=""></td><td><img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="original"></td></tr><tr><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td></tr><tr><td>Pepe</td><td>WIF</td></tr><tr><td><img src="../../.gitbook/assets/image (3).png" alt="" data-size="original"></td><td><img src="../../.gitbook/assets/image (4).png" alt="" data-size="original"></td></tr><tr><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td></tr><tr><td>CAT</td><td>APE</td></tr><tr><td><img src="../../.gitbook/assets/image (5).png" alt="" data-size="original"></td><td><img src="../../.gitbook/assets/image (6).png" alt="" data-size="original"></td></tr><tr><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td></tr><tr><td>Slerf</td><td>Ladys</td></tr><tr><td><img src="../../.gitbook/assets/image (7).png" alt="" data-size="original"></td><td><img src="../../.gitbook/assets/image (8).png" alt="" data-size="original"></td></tr><tr><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td></tr></tbody></table>
+<table><thead><tr><th width="310">Shiba</th><th>Doge</th></tr></thead><tbody><tr><td><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXckTsA4J_6Bp4RrIBJhmKmhtjL00Hu1nq8eRCFIj10fj5dV7jPNrUwuAbyBCywkEskBIWdv5i4yLwiGupPoWgS4L2dPWyS9cFIhg6yxIwvPRhUCWS9WSFD94286o1PSiXOI04qn?key=rX80Bxrq05xJeZ60gjPi91-Z" alt=""></td><td><img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="original"></td></tr><tr><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td></tr><tr><td>Pepe</td><td>WIF</td></tr><tr><td><img src="../../.gitbook/assets/image (3).png" alt="" data-size="original"></td><td><img src="../../.gitbook/assets/image (4).png" alt="" data-size="original"></td></tr><tr><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td></tr><tr><td>CAT</td><td>APE</td></tr><tr><td><img src="../../.gitbook/assets/image (5).png" alt="" data-size="original"></td><td><img src="../../.gitbook/assets/image (6).png" alt="" data-size="original"></td></tr><tr><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td></tr><tr><td>Slerf</td><td>Ladys</td></tr><tr><td><img src="../../.gitbook/assets/image (7).png" alt="" data-size="original"></td><td><img src="../../.gitbook/assets/image (8).png" alt="" data-size="original"></td></tr><tr><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td><td><p>Bomb number: 1</p><p>Speed: 1</p><p>Time placement (s): 1.5</p></td></tr></tbody></table>
+
+4. Heroes Ownership
+
+Heroes in Bomb Pixel are NFTs owned by players. Players can obtain heroes from the marketplace, hero packs, special events, or early access. Buying heroes from packs provides a randomly generated hero with varying rarity.
+
+They can buy these packs using $SEI. Owned heroes can be sold on the marketplace and will be disabled, while the rest can be used by the player.
