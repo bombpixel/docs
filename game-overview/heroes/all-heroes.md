@@ -2,7 +2,7 @@
 
 In Bomb Pixel, characters used for placing bombs are represented as NFTs (Non-Fungible Tokens). These characters not only play a crucial role in the gameplay but also offer unique abilities and traits, making each one valuable and distinct. Each hero can be upgraded over time.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/heroes (2).png" alt=""><figcaption></figcaption></figure>
 
 1. **Hero Attributes**
 
