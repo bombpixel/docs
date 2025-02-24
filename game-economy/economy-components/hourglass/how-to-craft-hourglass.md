@@ -1,6 +1,6 @@
 # How to craft Hourglass?
 
-1. **Workshop Rarity Restriction**
+1. [**Workshop**](../workshops.md) **Rarity Restriction**
 
 A **Workshop can only craft Hourglasses of equal or lower rarity**.
 
