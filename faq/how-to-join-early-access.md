@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to join Early Access?
 
 * There are 4 early access packages available for purchase, corresponding to their rarity.
