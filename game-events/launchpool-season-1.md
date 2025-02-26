@@ -1,8 +1,10 @@
-# How to join Launchpool Season 1?
+# Launchpool Season 1
 
 ## Campaign Structures and Phases
 
 The **BombPixel Launchpool Campaign** is designed to incentivize player engagement through **daily check-ins, in-game missions, social activities, and on-chain interactions**. Participants can earn **GEM**, the in-game currency, which contribute to their ranking and unlock exclusive rewards within the BombPixel ecosystem.
+
+<figure><img src="../.gitbook/assets/INVITE YOUR FRIENDS.jpg" alt=""><figcaption></figcaption></figure>
 
 #### **Season 1: Overview**
 

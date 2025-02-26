@@ -65,10 +65,10 @@
 
 ***
 
-* [FAQ](faq/README.md)
-  * [What is Early Access?](faq/what-is-early-access.md)
-  * [How to join Launchpool Season 1?](faq/how-to-join-launchpool-season-1.md)
-  * [How to join Early Access?](faq/how-to-join-early-access.md)
+* [GAME EVENTS](game-events/README.md)
+  * [What is Early Access?](game-events/what-is-early-access.md)
+  * [Launchpool Season 1](game-events/launchpool-season-1.md)
+  * [How to join Early Access?](game-events/how-to-join-early-access.md)
 
 ## Policies
 
