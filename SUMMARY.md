@@ -67,6 +67,7 @@
 
 * [FAQ](faq/README.md)
   * [What is Early Access?](faq/what-is-early-access.md)
+  * [How to join Launchpool Season 1?](faq/how-to-join-launchpool-season-1.md)
   * [How to join Early Access?](faq/how-to-join-early-access.md)
 
 ## Policies
