@@ -4,11 +4,13 @@
 
 The **BombPixel Launchpool Campaign** is designed to incentivize player engagement through **daily check-ins, in-game missions, social activities, and on-chain interactions**. Participants can earn **GEM**, the in-game currency, which contribute to their ranking and unlock exclusive rewards within the BombPixel ecosystem.
 
-#### **Season 1 Overview**
+#### **Season 1: Overview**
 
 * **Start Date:** March 10th, 2024
 * **Duration:** 21 days
-* **Reward Mechanism:** Players accumulate **GEM** by completing predefined tasks across multiple engagement categories.
+* **Reward Mechanism:** Players accumulate **GEM** by completing predefined tasks across multiple engagement categories. At the end of the campaign, all participants will receive rewards, with higher-ranking players earning larger shares of the prize pool.
+
+**Reward Pool**: 25,000,000 $BOMB
 
 **Reward Structure**
 
