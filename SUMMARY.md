@@ -63,12 +63,26 @@
     * [How to earn GEM?](game-economy/economy-components/gem/how-to-earn-gem.md)
 * [Portal](game-economy/portal.md)
 
+## Game events
+
+* [Economy Components](game-events/economy-components/README.md)
+  * [Workshops](game-events/economy-components/workshops.md)
+  * [Hourglass](game-events/economy-components/hourglass/README.md)
+    * [How to own Hourglass?](game-events/economy-components/hourglass/how-to-own-hourglass.md)
+    * [How to craft Hourglass?](game-events/economy-components/hourglass/how-to-craft-hourglass.md)
+    * [How to recharge Hourglass?](game-events/economy-components/hourglass/how-to-recharge-hourglass.md)
+    * [How to equip & unequip Hourglass into Account?](game-events/economy-components/hourglass/how-to-equip-and-unequip-hourglass-into-account.md)
+  * [GEM](game-events/economy-components/gem/README.md)
+    * [How to earn GEM?](game-events/economy-components/gem/how-to-earn-gem.md)
+* [Launchpool Season 1](game-events/launchpool-season-1.md)
+* [Portal](game-events/portal.md)
+
 ***
 
-* [GAME EVENTS](game-events/README.md)
-  * [What is Early Access?](game-events/what-is-early-access.md)
-  * [Launchpool Season 1](game-events/launchpool-season-1.md)
-  * [How to join Early Access?](game-events/how-to-join-early-access.md)
+* [GAME EVENTS](game-events-1/README.md)
+  * [What is Early Access?](game-events-1/what-is-early-access.md)
+  * [Launchpool Season 1](game-events-1/launchpool-season-1.md)
+  * [How to join Early Access?](game-events-1/how-to-join-early-access.md)
 
 ## Policies
 
