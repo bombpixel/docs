@@ -5,8 +5,9 @@
 
 | **Time Open (UTC)** | **Notes**                 |
 | ------------------- | ------------------------- |
-| 07:00 - 08:00       | First session of the day  |
-| 19:00 - 20:00       | Second session of the day |
+| 09:00 - 11:00       | First session of the day  |
+| 15:00 - 17:00       | Second session of the day |
+| 19:30 - 21:30       | Last session of the day   |
 
 This mode may open more frequently depending on game events and updates.
 
