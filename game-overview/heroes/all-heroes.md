@@ -10,15 +10,11 @@ Understanding these attributes will help you maximize the potential of your hero
 
 * Bomb Number: The number of bombs your hero is allowed to place on the map simultaneously.
 * Speed: The movement speed of your hero,which determines how quickly they can navigate the map.
-* Time placement: Time to place the bomb
-
-<figure><img src="../../.gitbook/assets/Frame 1116607952.png" alt=""><figcaption></figcaption></figure>
+* Time placement: Time to place the bom
 
 2. Heroes Rarities:
 
 There are 4 rarities a hero can have: Common, Rare, Epic, and Legendary heroes, each with progressively enhanced stats.
-
-<figure><img src="../../.gitbook/assets/frame rarity.png" alt=""><figcaption></figcaption></figure>
 
 3. Heroes List
 
