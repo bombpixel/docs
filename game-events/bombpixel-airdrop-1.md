@@ -8,7 +8,7 @@ The **BombPixel Airdrop#1 Campaign** is designed to incentivize player engagemen
 
 #### **Airdrop#1: Overview**
 
-* **Start Date:** March 10th, 2024
+* **Start Date:** March 11th, 2024
 * **Duration:** 21 days
 * **Reward Mechanism:** Players accumulate **GEM** by completing predefined tasks across multiple engagement categories. At the end of the campaign, all participants will receive rewards, with higher-ranking players earning larger shares of the prize pool.
 
