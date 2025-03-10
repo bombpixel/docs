@@ -74,7 +74,7 @@
     * [How to equip & unequip Hourglass into Account?](game-events/economy-components/hourglass/how-to-equip-and-unequip-hourglass-into-account.md)
   * [GEM](game-events/economy-components/gem/README.md)
     * [How to earn GEM?](game-events/economy-components/gem/how-to-earn-gem.md)
-* [Launchpool Season 1](game-events/launchpool-season-1.md)
+* [BombPixel Airdrop #1](game-events/bombpixel-airdrop-1.md)
 * [Portal](game-events/portal.md)
 
 ***

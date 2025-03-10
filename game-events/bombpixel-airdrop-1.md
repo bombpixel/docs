@@ -1,12 +1,12 @@
-# Launchpool Season 1
+# BombPixel Airdrop #1
 
 ## Campaign Structures and Phases
 
-The **BombPixel Launchpool Campaign** is designed to incentivize player engagement through **daily check-ins, in-game missions, social activities, and on-chain interactions**. Participants can earn **GEM**, the in-game currency, which contribute to their ranking and unlock exclusive rewards within the BombPixel ecosystem.
+The **BombPixel Airdrop#1 Campaign** is designed to incentivize player engagement through **daily check-ins, in-game missions, social activities, and on-chain interactions**. Participants can earn **GEM**, the in-game currency, which contribute to their ranking and unlock exclusive rewards within the BombPixel ecosystem.
 
-<figure><img src="../.gitbook/assets/INVITE YOUR FRIENDS.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2025-03-10 11.04.33.jpg" alt=""><figcaption></figcaption></figure>
 
-#### **Season 1: Overview**
+#### **Airdrop#1: Overview**
 
 * **Start Date:** March 10th, 2024
 * **Duration:** 21 days
