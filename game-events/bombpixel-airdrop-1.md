@@ -4,7 +4,7 @@
 
 The **BombPixel Airdrop#1 Campaign** is designed to incentivize player engagement through **daily check-ins, in-game missions, social activities, and on-chain interactions**. Participants can earn **GEM**, the in-game currency, which contribute to their ranking and unlock exclusive rewards within the BombPixel ecosystem.
 
-<figure><img src="../.gitbook/assets/2025-03-10 11.04.33.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/25M $BOMB airdrop #1.jpg" alt=""><figcaption></figcaption></figure>
 
 #### **Airdrop#1: Overview**
 
