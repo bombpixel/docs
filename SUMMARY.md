@@ -90,3 +90,4 @@
 * [Privacy Policies](policies/privacy-policies.md)
 * [FAQ](policies/faq.md)
 * [Important Links](policies/important-links.md)
+* [Contract Address](policies/contract-address.md)

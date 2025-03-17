@@ -7,11 +7,7 @@
 * Workshop rarity can fully recharge Hourglasses of equal or lower rarity.
 * Players need to sign an **on-chain transaction** for recharging.
 
-{% hint style="info" %}
-Sand + Exhausted Hourglass + Rare Workshop = Full Rare/Common/Uncommon Hourglass
-{% endhint %}
-
-<figure><img src="../../../.gitbook/assets/Sand_+_Exhausted_Hourglass_+_Rare_Workshop_=_Full_Rare_or_Common.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Frame 1116608041 (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Sand Cost for Recharging**
 

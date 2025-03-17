@@ -1,6 +1,6 @@
 # Economy Overview
 
-<figure><img src="../.gitbook/assets/flow workshop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/our vision 2v.png" alt=""><figcaption></figcaption></figure>
 
 At **BombPixel**, our economy is designed to **empower players** by allowing them to **craft, trade, and earn** within an open ecosystem. Instead of a **centralized in-game store** selling items directly, BombPixel enables players to **generate value through gameplay**, reinforcing a **sustainable and decentralized economic model**.
 
