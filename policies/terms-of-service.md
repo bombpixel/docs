@@ -2,7 +2,7 @@
 
 ## 1. Acceptance of Terms
 
-By using **Bomb Pixel** and any services associated with **Polrare Labs** ("Company", "Bomb Pixel", "we", "us" ), including the game's website and marketplace, you ("User") acknowledge that you have read, understood, and agree to be bound by these Terms of Service and any future amendments.
+By using **Bomb Pixel** and any services associated with ("Company", "Bomb Pixel", "we", "us" ), including the game's website and marketplace, you ("User") acknowledge that you have read, understood, and agree to be bound by these Terms of Service and any future amendments.
 
 ## 2. Eligibility
 
