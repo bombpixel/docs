@@ -38,7 +38,7 @@ If you provide any information to us, you must ensure that such information is a
 
 ## 4. Account Responsibility
 
-You agree not to (i) use another user’s account, username, screen name, or password at any time; (ii) permit any third party to access your account, username, screen name, or password; or (iii) sell, rent, borrow, or transfer your account to any third party, whether temporarily or permanently. If you breach these Terms, **Polrare Labs** reserves the right to issue a warning or to immediately suspend or terminate your account and your access to the Service at its discretion. You acknowledge that **Polrare Labs** is not required to give you prior notice before suspending or terminating your account and/or your access to the Service.
+You agree not to (i) use another user’s account, username, screen name, or password at any time; (ii) permit any third party to access your account, username, screen name, or password; or (iii) sell, rent, borrow, or transfer your account to any third party, whether temporarily or permanently. If you breach these Terms, BombPixel reserves the right to issue a warning or to immediately suspend or terminate your account and your access to the Service at its discretion. You acknowledge that BombPixel is not required to give you prior notice before suspending or terminating your account and/or your access to the Service.
 
 ## **5. Restrictions**
 
