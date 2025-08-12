@@ -99,7 +99,7 @@ We use the information collected to protect Our Platforms, Users' Information, a
 
 #### **To comply with regulations and compliance** <a href="#to-comply-with-regulations-and-compliance" id="to-comply-with-regulations-and-compliance"></a>
 
-For Our legitimate interests, We will use the information in compliance with Our legal obligations, global and local industry standards, and Our AML/KYC/CTF procedures. In the case where it is strictly necessary (i.e., to protect the vital interests of the users or other natural persons, to prevent or mitigate fraud, to fulfill the purpose of public interest, or to pursue Our reasonable interests), We may use and process your Personal Information without obtaining your consent. You hereby expressly authorize **Bomb Pixel** to disclose all information relating to You in Awaken's possession to any law enforcement or government officials upon a valid request.
+For Our legitimate interests, We will use the information in compliance with Our legal obligations, global and local industry standards, and Our AML/KYC/CTF procedures. In the case where it is strictly necessary (i.e., to protect the vital interests of the users or other natural persons, to prevent or mitigate fraud, to fulfill the purpose of public interest, or to pursue Our reasonable interests), We may use and process your Personal Information without obtaining your consent. You hereby expressly authorize **Bomb Pixel** to disclose all information relating to You in BombPixel's possession to any law enforcement or government officials upon a valid request.
 
 #### **For measurement, research, and development purposes** <a href="#for-measurement-research-and-development-purposes" id="for-measurement-research-and-development-purposes"></a>
 
@@ -109,7 +109,7 @@ For Our legitimate interests, We will use the information in compliance with Our
 #### **For communication purposes** <a href="#for-communication-purposes" id="for-communication-purposes"></a>
 
 * We use your Personal Information, collected or derived from your communication devices or email address, to interact with You directly, provide You with the necessary support, and keep You informed of wallets connected, transactions, staking instructions, and security details as well as other aspects.
-* All direct communications will be appropriately maintained at Awaken, or the service providers designated by Us, to be reviewed for accuracy, retained as evidence or used to perform other statutory requirements or other obligations as stipulated in this Privacy Policy and the T\&Cs.
+* All direct communications will be appropriately maintained at BombPixel, or the service providers designated by Us, to be reviewed for accuracy, retained as evidence or used to perform other statutory requirements or other obligations as stipulated in this Privacy Policy and the T\&Cs.
 
 #### **For marketing and advertising** <a href="#for-marketing-and-a-dvertising" id="for-marketing-and-a-dvertising"></a>
 
@@ -125,7 +125,7 @@ For Our legitimate interests, We will use the information in compliance with Our
 
 ## **7. How long We retain Personal Information**
 
-You are aware that your Personal Information will continue to be stored and retained by Us or by a third-party processor engaged by the US for KYC Verification while You have been using or accessing the **Bomb Pixel** ecosystem and the Services and after your use of the Services for a reasonable time stipulated under the applicable law. In addition, We may be required by applicable laws and regulatory requirements to retain certain information, including your Personal Information, your identification verification materials, Information relevant to AML/KYC/CTF procedures, Information related to staking instructions, account agreements, and other agreements between Us and third-parties, account statements, and other records after You stop accessing or participating in Awaken.
+You are aware that your Personal Information will continue to be stored and retained by Us or by a third-party processor engaged by the US for KYC Verification while You have been using or accessing the **Bomb Pixel** ecosystem and the Services and after your use of the Services for a reasonable time stipulated under the applicable law. In addition, We may be required by applicable laws and regulatory requirements to retain certain information, including your Personal Information, your identification verification materials, Information relevant to AML/KYC/CTF procedures, Information related to staking instructions, account agreements, and other agreements between Us and third-parties, account statements, and other records after You stop accessing or participating in BombPixel.
 
 ## **8. Cookies**
 
@@ -156,7 +156,7 @@ We will not rent, sell, or disclose your Personal Information to any third parti
 * We will be required to verify your identities by applicable laws and regulatory requirements and rely on third-party services to perform these verifications. Personal Information You Provide to Us during the initial connecting process is passed to these services at the KYC Verification process and on an ongoing basis after that.
 * We may disclose or transfer a part of the Personal Information We collect if We are involved in a business transition or any merger and acquisition (M\&A) projects. In such an M & M\&A event, your Personal Information might be among the assets transferred, but it will be protected and secure according to this Privacy Policy.
 * We may share your Personal Information with law enforcement and government officials when We are compelled to do so by a subpoena, a valid court order to prevent financial loss, report suspected illegal activity, or investigate violations of any of Our T\&Cs or any other applicable policies.
-* We may share your Personal Information with third-party processors acting on behalf of **Bomb Pixel** or engaged by **Bomb Pixel** to process your Personal Information for Awaken, Our Affiliates, and Our Partners.
+* We may share your Personal Information with third-party processors acting on behalf of **Bomb Pixel** or engaged by **Bomb Pixel** to process your Personal Information for BombPixel, Our Affiliates, and Our Partners.
 * All Affiliates and third parties with whom We share your Personal Information have their privacy policies. However, they will be expected to protect this information in a manner that aligns with the provisions described in this Privacy Policy.
 
 ## **10. Third-Party Collection of Personal Information**
