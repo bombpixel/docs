@@ -2,7 +2,7 @@
 
 Website: [https://bombpixel.xyz/](https://bombpixel.xyz/)
 
-Telegram Group: [https://t.me/bombpixelxyz](https://t.me/bombpixelxyz)
+Telegram Group: [https://t.me/bombpixel\_chat](https://t.me/bombpixel_chat)
 
 Telegram Channel: [https://t.me/bombpixel\_updates](https://t.me/bombpixel_updates)
 
